@@ -8,9 +8,9 @@ const config = {
   future: {},
 
   url: 'https://lydia632.github.io',
-  baseUrl: '/UCSB Transportation/',
+  baseUrl: '/TuesdayClass/',
   organizationName: 'lydia632',
-  projectName: 'UCSB Transportation',
+  projectName: 'TuesdayClass',
   trailingSlash: false,
   onBrokenLinks: 'throw',
 
